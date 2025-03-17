@@ -5,7 +5,8 @@ NOTE: IF YOU WANT TO USE THIS WITHOUT ALL THIS HASSLE BECAUSE YOU ARE AN FREAK T
 java -cp /home/justpurv/Documents/projects/ToDoListApp toDoList "$@"**  
 add your path
 **
-where to save it,
+
+**where to save it,
 
 mkdir -p ~/bin
 
@@ -14,7 +15,7 @@ nvim/nano todo
 and save the content in todo file
 
 make it executable, you are smart you can do it.
-
+**
 then add it to path
 
 export PATH="$HOME/bin:$PATH"
