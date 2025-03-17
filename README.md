@@ -30,6 +30,11 @@ heres how it will work if you use bash script
 ![image](https://github.com/user-attachments/assets/c783f8be-fc6c-4b81-80ac-15d038d3e07a)
 ![image](https://github.com/user-attachments/assets/e48c0b59-bde6-43ac-ac8d-a4bc680e0043)
 
+some changes in add functionality
+
+![image](https://github.com/user-attachments/assets/e80adab5-7999-40ce-809e-5f8015560d39)
+
+
 
 **
 
