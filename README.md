@@ -6,11 +6,14 @@ java -cp /home/justpurv/Documents/projects/ToDoListApp toDoList "$@"**
 add your path
 **
 where to save it,
+
 mkdir -p ~/bin
+
 nvim/nano todo
+
 and save the content in todo file
 
-make it executable you are smart you can do it
+make it executable, you are smart you can do it.
 
 then add it to path
 
