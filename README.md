@@ -19,7 +19,8 @@ export PATH="$HOME/bin:$PATH"
 also add it to .bashrc or .zshrc 
 and source it 
 
-now you are all set
+now you are all set.
+
 heres how it will work if you use bash script
 
 ![image](https://github.com/user-attachments/assets/c783f8be-fc6c-4b81-80ac-15d038d3e07a)
