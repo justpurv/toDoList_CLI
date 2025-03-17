@@ -46,10 +46,13 @@ public class toDoList {
         // handle user choice
         switch (command) {
             case "add":
-
                 // ADD TASK
-                System.out.println("enter the task :");
-                String task = t.nextLine();
+                if (args.length < 2) {
+                    System.out.println("please provide task description!");
+                    System.exit(1); // exit with error.
+                }
+
+                String task = args[1];
                 tasks.add(task);
                 saveTasksToFile(tasks);
                 System.out.println("task added successfully!");
