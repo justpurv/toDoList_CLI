@@ -20,6 +20,12 @@ also add it to .bashrc or .zshrc
 and source it 
 
 now you are all set
+heres how it will work if you use bash script
+
+![image](https://github.com/user-attachments/assets/c783f8be-fc6c-4b81-80ac-15d038d3e07a)
+![image](https://github.com/user-attachments/assets/e48c0b59-bde6-43ac-ac8d-a4bc680e0043)
+
+
 **
 
 This is a simple command-line ToDo List application written in Java. It allows users to add, display, mark, remove, and clear tasks.
