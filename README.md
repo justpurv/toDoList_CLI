@@ -2,7 +2,8 @@
 NOTE: IF YOU WANT TO USE THIS WITHOUT ALL THIS HASSLE BECAUSE YOU ARE AN FREAK THEN YOU CAN ALSO ADD A SIMPLE BASH SCRIPT FOR RUNNING IT.
 
 **javac /home/justpurv/Documents/projects/ToDoListApp/toDoList.java && \
-java -cp /home/justpurv/Documents/projects/ToDoListApp toDoList "$@"** 
+java -cp /home/justpurv/Documents/projects/ToDoListApp toDoList "$@"**  
+add your path
 **
 where to save it,
 mkdir -p ~/bin
