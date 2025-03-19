@@ -1,3 +1,0 @@
-revise java syntax and fundamentals 
-learn android with java
-hello
