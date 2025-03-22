@@ -36,7 +36,7 @@ public class toDoList {
         if (args.length == 0) {
             System.out.println("\nUsage:");
             System.out.println("  todo add \"task description\"");
-            System.out.println("  todo display");
+            System.out.println("  todo ls (for display)");
             System.out.println("  todo mark <task_number>");
             System.out.println("  todo remove <task_number>");
             System.out.println("  todo clear");
@@ -58,7 +58,7 @@ public class toDoList {
                 System.out.println("task added successfully!");
                 break;
 
-            case "display":
+            case "ls":
                 // display
                 System.out.println("your tasks:");
                 if (tasks.isEmpty()) {
